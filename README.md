@@ -1,14 +1,9 @@
 ### Hi there 👋
 Here is what i am working on.
 
-<!--
-**syedwaqasjawed/syedwaqasjawed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Data Science Projects
 - 🌱 I’m currently learning ...Data Science with the help of some projects.
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...Machine Learning Projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
